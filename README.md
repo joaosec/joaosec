@@ -15,7 +15,7 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/joão-victor-andrade-3b36b0255" target="_blank">
+  <a href="www.linkedin.com/in/joão-victor-andrade-3b36b0255" >
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
