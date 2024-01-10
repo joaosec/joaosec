@@ -14,8 +14,8 @@
 
 ###
 
-<div align="left">
-  <a href="www.linkedin.com/in/joão-victor-andrade-161226bhm" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div >
+  <a href="[www.linkedin.com/in/joão-victor-andrade-161226bhm](https://www.linkedin.com/in/joão-victor-andrade-3b36b0255/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 ###
